@@ -1,0 +1,24 @@
+PODS:
+  - GoogleWebRTC (1.1.31999)
+  - MBProgressHUD (1.2.0)
+  - Starscream (3.1.0)
+
+DEPENDENCIES:
+  - GoogleWebRTC
+  - MBProgressHUD (~> 1.2.0)
+  - Starscream (= 3.1.0)
+
+SPEC REPOS:
+  trunk:
+    - GoogleWebRTC
+    - MBProgressHUD
+    - Starscream
+
+SPEC CHECKSUMS:
+  GoogleWebRTC: b39a78c4f5cc6b0323415b9233db03a2faa7b0f0
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Starscream: 08172b481e145289c4930cb567230fb55897cfa4
+
+PODFILE CHECKSUM: c3e8d2e5a0b33820adefbe2f71597cbd74a8cb2e
+
+COCOAPODS: 1.10.1
