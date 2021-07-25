@@ -22,8 +22,8 @@ https://openvidu.io
 #### Steps to connect video call between iOS device & web
 - open your browser and go to https://demos.openvidu.io/openvidu-call/#/
 - By default, RoomID already generated in web app.
-- Enter the same RoomID (web app room id) to iOS device
-- Join call
+- Enter the same RoomID (web app room id) in your iOS device
+- Then click Join call
 
 
 ## Pods used
