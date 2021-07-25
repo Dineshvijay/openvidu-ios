@@ -4,7 +4,7 @@ Video call app using openvidu - webRTC
 Openvidu website
 https://openvidu.io
 
-[![Watch the video](./assets/3.png)](./assets/demo-vid.mp4)
+[![Watch the video](./assets/3.PNG)](./assets/demo-vid.mp4)
 
 ## Flow
 <p align="center">
