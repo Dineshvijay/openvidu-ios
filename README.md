@@ -1,4 +1,4 @@
-# openvidu-ios
+# Native OpenVidu-iOS
 Video call app using openvidu - webRTC
 
 Openvidu website
